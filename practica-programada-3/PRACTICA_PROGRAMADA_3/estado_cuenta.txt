@@ -1,0 +1,14 @@
+ESTADO DE CUENTA
+
+Transacciones:
+ID: 1 | Pago Celular | ₡700,000.00
+ID: 2 | Pago Carro | ₡10,000,000.00
+ID: 3 | Pago Casa | ₡50,000,000.00
+ID: 4 | Pago Laptop | ₡800,000.00
+ID: 5 | Pago Apartamento | ₡250,000.00
+
+Monto total: ₡61,750,000.00
+Interés: ₡1,605,500.00
+Cashback: ₡61,750.00
+Monto final: ₡63,293,750.00
+-------------------------------------------
